@@ -1,0 +1,24 @@
+{
+    "name": "earthbound-themes",
+    "version": "1.0.0",
+    "description": "Hyper themes inspired by the memorable and bizarre locations from Earthbound",
+    "license": "MIT",
+    "repository": "https://github.com/benbusby/hyper-earthbound-themes",
+    "author": {
+      "name": "Ben Busby",
+      "email": "contact@benbusby.com",
+      "url": "https://benbusby.com"
+    },
+    "keywords": [
+      "earthbound",
+      "snes",
+      "ben",
+      "busby",
+      "hyper",
+      "hyper-theme",
+      "terminal",
+      "term",
+      "theme",
+      "hyperterm"
+    ]
+}
